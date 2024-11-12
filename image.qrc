@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>ziyuan/back01.png</file>
+        <file>ziyuan/back02.png</file>
+    </qresource>
+</RCC>
